@@ -86,10 +86,6 @@ https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_Channel_Telugu&q=250&
 
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://j2apps.s.llnwi.net/pic/0306.9XM.in/en/1x1/208x208/test_pic1545220990615.jpg",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",SONY YAY
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://1.bp.blogspot.com/-Xu-dsQkAkcE/YOwa6CSh-dI/AAAAAAAAAYc/2kY-YqZuld8lD8f3KEJGHfueu_vHNosgQCLcBGAsYHQ/s200/Gubbare-cl.webp",GUBBARE (IN)
-https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/SQS0HbU.png",Spacetoon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8
 
@@ -97,13 +93,5 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 
 #EXTINF:-1 group-title="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png",AXN (TW)
-http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png",BBC EARTH
-https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://1.bp.blogspot.com/-eRj7-UQC4BM/YOrLLV-2u6I/AAAAAAAAASg/J-P0oCdRjdIO8XKgw5Pfkt58TJpqku7-ACLcBGAsYHQ/s200/images%2B%25281%2529%25283%2529.png",INDIA TODAY (IN)
-https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 group-title="English" tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s200/PicsArt_07-14-06.24.01.png",STAR WORLD HD (IN)
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF: -1 tvg-id="1216" group-title="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png", Highbrow
 https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Highbrow&q=800&e=junk.m3u8

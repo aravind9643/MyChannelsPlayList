@@ -1,0 +1,109 @@
+#EXTM3U
+
+************  Telugu *************
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/9017/1000x1000_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg",Gemini TV
+http://139.59.55.243/sunnxt/live.php?c=9017&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg",Gemini TV HD
+http://139.59.55.243/sunnxt/live.php?c=14019&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/StarMaaLogo.jpg",Star Maa
+http://172.105.83.39/play1.php?url=http://livezer0.hjkm.info:11991/vulcan/maatv/playlist.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/StarMaaMoviesLogo.jpg",Star Maaa Movies
+http://172.105.83.39/play1.php?url=http://livezer0.hjkm.info:11991/vulcan/maamovies/playlist.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/ETVnewLogo.png",ETV
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Telugu&q=1200&e=.m3u8
+#EXTINF:-1 group-title="Telugu",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Telugu&q=250&e=.m3u8
+#EXTINF:-1 group-title="Telugu",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658_593933473.png",Zee Telugu HD
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeetelugu
+#EXTINF:-1 group-title="Telugu",tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zee_Cinemalu&q=250&e=.m3u8
+#EXTINF:-1 group-title="Telugu",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232.png",Zee Cinemalu HD
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zeecinemalu
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg",Gemini Movies
+http://139.59.55.243/sunnxt/live.php?c=9015&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg",Gemini Movies HD
+http://139.59.55.243/sunnxt/live.php?c=26570&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg",Gemini Music
+http://139.59.55.243/sunnxt/live.php?c=9026&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg",Gemini Music HD
+http://139.59.55.243/sunnxt/live.php?c=26568&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",ETV Cinema
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Cinema&q=250&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",ETV Plus
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Plus&q=250&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",ETV Abhiruchi
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Abhiruchi&q=250&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/9027/1000x1000_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg",Gemini Comedy
+http://139.59.55.243/sunnxt/live.php?c=9027&e=&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg",Gemini Life
+http://139.59.55.243/sunnxt/live.php?c=26572&e=.m3u8
+#EXTINF:-1 group-title="Sneh SunNXT" tvg-logo="https://sund-images.sunnxt.com/26571/1000x1000_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg",Kushi TV
+http://139.59.55.243/sunnxt/live.php?c=26571&e=.m3u8
+#EXTINF: -1 tvg-id="543" group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png", Nick Telugu
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Nick_Telugu&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="874"  group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png", Sony Yay Telugu
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sony_Yay_Telugu&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="1080" group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png", Cartoon Network Telugu
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Cartoon_Network_Telugu&q=250&e=.m3u8
+#EXTINF: -1 tvg-id="1080" group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png", CN HD+ Telugu
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=CN_HD_Telugu&q=800&e=junk.m3u8
+#EXTINF: -1 tvg-id="1242"  group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png", Sonic Telugu
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sonic_Telugu&q=800&e=junk.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://j2apps.s.llnwi.net/pic/2880.DDYadagiri.in/en/1x1/208x208/test_pic1535463634327.jpg",DD Yadagiri
+https://m-c15-j2apps.s.llnwi.net/hls/2880.DDYadagiri.in.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://j2apps.s.llnwi.net/pic/0286.DDSaptagiri.in/en/1x1/208x208/test_pic1535463538962.jpg",DD Saptagiri
+https://m-c15-j2apps.s.llnwi.net/hls/0286.DDSaptagiri.in.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://j2apps.s.llnwi.net/pic/8034.V6News.in/en/1x1/208x208/test_pic1607960004481.jpg",V6 News
+https://m-c08-j2apps.s.llnwi.net/hls/8034.V6News.in.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",ETV Telangana
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Telangana&q=250&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://j2apps.s.llnwi.net/pic/0440.TV5Telugu.in/en/1x1/208x208/test_pic1542964247055.jpg",TV5 Telugu
+https://m-c01-j2apps.s.llnwi.net/hls/0440.TV5Telugu.in.m3u8
+#EXTINF:-1 group-title="Telugu",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-355/channel_web/1170x658withlogo_719952414.png",ABN Andhra Jyothy
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-355
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://j2apps.s.llnwi.net/pic/0515.MahaaTV.in/en/1x1/208x208/test_pic1558352506850.jpg",Mahaa TV
+https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
+#EXTINF:-1 group-title="Telugu",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/1170x658withlogo_100879400.png",TV9 Telugu
+https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-258
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://tvchannels.live/wp-content/uploads/2019/05/ABN-e1557655160768.png",ABN
+https://video.fhyd14-1.fna.fbcdn.net/hvideo-prn-ftw/_nc_cat-1/v/r-VgWdkmQll5x4wjBAo-j/_nc_ohc-QkSPHz35B2oAX8jlMN5/live-dash/dash-abr-ibr-audio/4790155387738436.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=279683e22d4396e2d7c396e75d528cd6&oe=61A013D9
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/10tv_telugu.jpg",10 TV
+http://14.199.164.20:4001/play/a0it/index.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/HMTV_Channel_Logo.png",HMTV
+http://14.199.164.20:4001/play/a0ib/index.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://j2apps.s.llnwi.net/pic/2269.StudioOne.in/en/1x1/208x208/test_pic1580125615260.webp",Studio One Plus
+https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png",Raj Music Telugu
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Raj_Music_Telugu&q=250&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png",History TV18 HD Telugu
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=History_18_Telugu&q=250&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png",Sony BBC Earth HD Telugu
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Sony_BBC_Earth_HD_Telugu&q=250&e=.m3u8
+#EXTINF:-1 group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",Discovery Channel Telugu
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_Channel_Telugu&q=250&e=.m3u8
+
+************  Hindi *************
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://j2apps.s.llnwi.net/pic/0306.9XM.in/en/1x1/208x208/test_pic1545220990615.jpg",9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",SONY YAY
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://1.bp.blogspot.com/-Xu-dsQkAkcE/YOwa6CSh-dI/AAAAAAAAAYc/2kY-YqZuld8lD8f3KEJGHfueu_vHNosgQCLcBGAsYHQ/s200/Gubbare-cl.webp",GUBBARE (IN)
+https://epiconvh.s.llnwi.net/gubbare/master.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/SQS0HbU.png",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_3.m3u8
+
+************  English *************
+
+#EXTINF:-1 group-title="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",SONY PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png",AXN (TW)
+http://ip2121.com:8081/live/AXN_Y/chunks.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5571681160001.png",BBC EARTH
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://1.bp.blogspot.com/-eRj7-UQC4BM/YOrLLV-2u6I/AAAAAAAAASg/J-P0oCdRjdIO8XKgw5Pfkt58TJpqku7-ACLcBGAsYHQ/s200/images%2B%25281%2529%25283%2529.png",INDIA TODAY (IN)
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://1.bp.blogspot.com/-NP69DuoXNiQ/YO43_aprZwI/AAAAAAAAAbU/GLNxe37LKd0wVHPUzEQOvKDLwEOKoUaCwCLcBGAsYHQ/s200/PicsArt_07-14-06.24.01.png",STAR WORLD HD (IN)
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
+#EXTINF: -1 tvg-id="1216" group-title="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png", Highbrow
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Highbrow&q=800&e=junk.m3u8

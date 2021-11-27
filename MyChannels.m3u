@@ -37,7 +37,7 @@ https://snehjiotv.in1.bitmana.io/snehjioox.php?c=ETV_Abhiruchi&q=250&e=.m3u8
 http://139.59.55.243/sunnxt/live.php?c=9027&e=&e=.m3u8
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg",Gemini Life
 http://139.59.55.243/sunnxt/live.php?c=26572&e=.m3u8
-#EXTINF:-1 group-title="Sneh SunNXT" tvg-logo="https://sund-images.sunnxt.com/26571/1000x1000_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg",Kushi TV
+#EXTINF:-1 group-title="Telugu" tvg-logo="https://sund-images.sunnxt.com/26571/1000x1000_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg",Kushi TV
 http://139.59.55.243/sunnxt/live.php?c=26571&e=.m3u8
 #EXTINF: -1 tvg-id="543" group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png", Nick Telugu
 https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Nick_Telugu&q=800&e=junk.m3u8
@@ -65,12 +65,6 @@ https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-355
 https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 #EXTINF:-1 group-title="Telugu",tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/1170x658withlogo_100879400.png",TV9 Telugu
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-258
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://tvchannels.live/wp-content/uploads/2019/05/ABN-e1557655160768.png",ABN
-https://video.fhyd14-1.fna.fbcdn.net/hvideo-prn-ftw/_nc_cat-1/v/r-VgWdkmQll5x4wjBAo-j/_nc_ohc-QkSPHz35B2oAX8jlMN5/live-dash/dash-abr-ibr-audio/4790155387738436.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=279683e22d4396e2d7c396e75d528cd6&oe=61A013D9
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/10tv_telugu.jpg",10 TV
-http://14.199.164.20:4001/play/a0it/index.m3u8
-#EXTINF:-1 group-title="Telugu" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/HMTV_Channel_Logo.png",HMTV
-http://14.199.164.20:4001/play/a0ib/index.m3u8
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://j2apps.s.llnwi.net/pic/2269.StudioOne.in/en/1x1/208x208/test_pic1580125615260.webp",Studio One Plus
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 #EXTINF:-1 group-title="Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png",Raj Music Telugu
@@ -93,5 +87,3 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 
 #EXTINF:-1 group-title="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
-#EXTINF: -1 tvg-id="1216" group-title="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png", Highbrow
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Highbrow&q=800&e=junk.m3u8

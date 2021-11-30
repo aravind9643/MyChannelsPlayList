@@ -435,6 +435,8 @@ https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Nick_HD_Plus&q=1200&e=.m3u8
 https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Nickelodeon&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="English",Nickelodeon Jr.
 https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Nickelodeon_Jr&q=1200&e=.m3u8
+#EXTINF:-1 tvg-logo="https://iconape.com/wp-content/files/px/285466/svg/animax-logo-logo-icon-png-svg.png" group-title="English", Animax
+https://snehtv.tk/kidseng/animax.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" group-title="English",ZooMoo HD
 https://snehjiotv.in1.bitmana.io/snehjioox.php?c=ZooMoo_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEST14_HD.png" group-title="English",TEST14 HD

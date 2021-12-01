@@ -44,6 +44,16 @@ https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-258
 #EXTINF:-1 group-title="Telugu" tvg-logo="https://j2apps.s.llnwi.net/pic/2269.StudioOne.in/en/1x1/208x208/test_pic1580125615260.webp",Studio One Plus
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
+#EXTINF:-1 group-title="Telugu",Rasi Telugu HD
+http://singamcloud.in:1935/rasinetwork/rasitelugu/chunklist_w1202270817.m3u8
+#EXTINF:-1 group-title="Telugu",Vihari TV
+http://blmtech.in:8086/hls/viharitv/index.m3u8
+#EXTINF:-1 group-title="Telugu",S TV
+http://blmtech.in:8086/hls/stvtelugu/index.m3u8
+#EXTINF:-1 group-title="Telugu",Bathukamma TV
+http://live.streamplay.in:1935/bkamma/bkamma/chunklist_w842198526.m3u8
+#EXTINF:-1, group-title="Telugu",Ee Vidya TV
+http://live.streamingbharat.com:8080/hls7/stream.m3u8
 
 ************  Telugu ************
 

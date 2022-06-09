@@ -10,5 +10,5 @@ https://m-c036-j2apps.s.llnwi.net/hls/0515.MahaaTV.in.m3u8
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 #EXTINF:-1 group-title="Telugu",Bathukamma TV
 http://live.streamplay.in:1935/bkamma/bkamma/chunklist_w842198526.m3u8
-#EXTINF:-1, group-title="Telugu",TV 9
-https://list.iptvcat.com/my_list/s/142da66d74df05e16bb18e89b415eaa5.m3u8
+#EXTINF:-1 group-title="Telugu",MAA TV HD
+http://new-pro.tv:8080/Fernando/123321/84212?checkedby:iptvcat.com
